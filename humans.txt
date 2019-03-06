@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nick Thompson Nmthomps96@gmail.com
 
 # THANKS
 
